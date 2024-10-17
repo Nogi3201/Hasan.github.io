@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('https://static.upoint.id/images/news/1664532893istilahdimobilelegends.jpg') ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
